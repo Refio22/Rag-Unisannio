@@ -3,7 +3,7 @@ name: Update Solr on PDF Change
 on:
   push:
     paths:
-      - 'Documenti/**'  # Triggers on any changes within the Documenti directory
+      - 'Documenti/**'
 
 jobs:
   update-solr:
@@ -13,17 +13,23 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v2
 
+    - name: Set up Docker
+      run: sudo apt-get install docker.io
+
+    - name: Build and run Solr docker container
+      run: |
+        docker build -t my-solr ./docker
+        docker run -d -p 8983:8983 --name my-solr-container my-solr
+
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
         python-version: '3.x'
 
     - name: Install Dependencies
-      run: |
-        pip install requests PyMuPDF  # Install any Python dependencies your script needs
+      run: pip install requests PyMuPDF
 
     - name: Run Solr Update Script
       env:
-        SOLR_URL: ${{ secrets.SOLR_URL }}
-      run: |
-        python ScriptRAS2.py
+        SOLR_URL: http://localhost:8983/solr/regolamento_1/update/json/docs
+      run: python ScriptRAS2.py
