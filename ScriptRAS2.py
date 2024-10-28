@@ -19,8 +19,14 @@ API_URL = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{DIRECTORY_PATH}
 # headers = {"Authorization": "token YOUR_GITHUB_TOKEN"}
 
 # Fetch the list of files in the GitHub directory
-response = requests.get(API_URL)
-files = response.json()
+response = requests.get(API_URL)  # , headers=headers
+
+# Check if the response is valid JSON
+try:
+    files = response.json()
+except json.JSONDecodeError:
+    print("Failed to decode JSON response from GitHub API")
+    files = []
 
 # Ensure files is a list
 if not isinstance(files, list):
@@ -29,7 +35,6 @@ if not isinstance(files, list):
 
 # Filter for PDF files
 pdf_files = [file for file in files if file.get("name", "").endswith(".pdf")]
-indexed_docs = set()
 
 # Function to check if a document is already indexed in Solr
 def is_document_indexed(solr_url, doc_id):
@@ -59,7 +64,6 @@ def process_and_index_pdf(pdf_url, pdf_name, file_sha):
     # Process each section for Solr indexing
     for i, section_text in enumerate(sections[1:], start=1):  # Start from 1 to ignore header
         doc_id = f"{pdf_name}-articolo-{i}"
-        indexed_docs.add(doc_id)
         if not is_document_indexed(SOLR_URL, doc_id):
             title = f"{pdf_name} - ARTICOLO {i}"
             json_data = {
@@ -78,33 +82,14 @@ def process_and_index_pdf(pdf_url, pdf_name, file_sha):
         else:
             print(f"Failed to index {data['id']} to Solr. Status: {response.status_code}, Error: {response.text}")
 
-# Function to delete removed documents from Solr
-def delete_removed_docs(solr_url, indexed_docs):
-    query_url = f"{solr_url}/select?q=*:*&wt=json&rows=1000"
-    response = requests.get(query_url)
-    try:
-        response_json = response.json()
-    except json.JSONDecodeError:
-        print("Failed to decode JSON response from Solr")
-        return
-    solr_docs = response_json.get('response', {}).get('docs', [])
-    for doc in solr_docs:
-        if doc['id'] not in indexed_docs:
-            delete_url = f"{solr_url}?commit=true"
-            delete_data = {"delete": {"id": doc['id']}}
-            delete_response = requests.post(delete_url, json=delete_data)
-            if delete_response.status_code == 200:
-                print(f"Deleted {doc['id']} from Solr.")
-            else:
-                print(f"Failed to delete {doc['id']} from Solr. Status: {delete_response.status_code}, Error: {delete_response.text}")
-
 # Loop through each PDF file, download and process if it's new/updated
 for pdf_file in pdf_files:
     pdf_name = pdf_file["name"]
     pdf_url = pdf_file["download_url"]
     file_sha = pdf_file["sha"]  # SHA for version checking
 
-    process_and_index_pdf(pdf_url, pdf_name, file_sha)
-
-# Delete documents that no longer exist in the repository
-delete_removed_docs(SOLR_URL, indexed_docs)
+    # Check if document is already indexed
+    if not is_document_indexed(SOLR_URL, pdf_name):
+        process_and_index_pdf(pdf_url, pdf_name, file_sha)
+    else:
+        print(f"{pdf_name} already indexed, skipping.")
