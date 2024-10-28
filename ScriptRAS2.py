@@ -82,7 +82,11 @@ def process_and_index_pdf(pdf_url, pdf_name, file_sha):
 def delete_removed_docs(solr_url, indexed_docs):
     query_url = f"{solr_url}/select?q=*:*&wt=json&rows=1000"
     response = requests.get(query_url)
-    response_json = response.json()
+    try:
+        response_json = response.json()
+    except json.JSONDecodeError:
+        print("Failed to decode JSON response from Solr")
+        return
     solr_docs = response_json.get('response', {}).get('docs', [])
     for doc in solr_docs:
         if doc['id'] not in indexed_docs:
