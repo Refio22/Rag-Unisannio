@@ -13,10 +13,23 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v2
 
-    - name: Set up Docker
-      run: sudo apt-get install docker.io
+    - name: Resolve package conflicts
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y --no-install-recommends \
+          apt-utils \
+          ca-certificates \
+          gnupg \
+          lsb-release
 
-    - name: Build and run Solr docker container
+    - name: Set up Docker
+      run: |
+        sudo apt-get install -y \
+          docker-ce \
+          docker-ce-cli \
+          containerd.io
+
+    - name: Build and run Solr Docker container
       run: |
         docker build -t my-solr ./docker
         docker run -d -p 8983:8983 --name my-solr-container my-solr
