@@ -42,6 +42,11 @@ jobs:
     - name: Install Dependencies
       run: pip install requests PyMuPDF
 
+    - name: Check Solr Status
+      run: |
+        curl -s http://localhost:8983/solr/admin/cores?action=STATUS
+        docker logs my-solr-container
+
     - name: Run Solr Update Script
       env:
         SOLR_URL: http://localhost:8983/solr/regolamento_1/update/json/docs
