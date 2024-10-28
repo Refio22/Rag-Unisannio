@@ -1,0 +1,29 @@
+name: Update Solr on PDF Change
+
+on:
+  push:
+    paths:
+      - Documenti  # Only triggers on changes to PDF files in the specified directory
+
+jobs:
+  update-solr:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install Dependencies
+      run: |
+        pip install requests PyMuPDF  # Install any Python dependencies your script needs
+
+    - name: Run Solr Update Script
+      env:
+        SOLR_URL: ${{ secrets.SOLR_URL }}
+      run: |
+        python ScriptRAS2.py
