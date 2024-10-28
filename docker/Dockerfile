@@ -4,7 +4,10 @@ FROM solr:latest
 # Expose the Solr port
 EXPOSE 8983
 
-# Start Solr in the background
+# Create the Solr home directory structure
+RUN mkdir -p /var/solr/data
+
+# Start Solr in the background, wait for it to initialize, and create the core
 RUN solr start && \
     sleep 10 && \
     solr create_core -c regolamento_1
