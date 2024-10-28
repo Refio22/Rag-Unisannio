@@ -3,7 +3,7 @@ name: Update Solr on PDF Change
 on:
   push:
     paths:
-      - Documenti  # Only triggers on changes to PDF files in the specified directory
+      - 'Documenti/**'  # Triggers on any changes within the Documenti directory
 
 jobs:
   update-solr:
