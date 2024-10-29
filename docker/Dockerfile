@@ -13,4 +13,4 @@ RUN solr start -Dsolr.solr.home=/var/solr/data && \
     solr create_core -c regolamento_1
 
 # Start Solr in the foreground
-CMD ["solr-foreground"]
+CMD ["solr", "start", "-f"]
