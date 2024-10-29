@@ -16,15 +16,6 @@ jobs:
     - name: Install Java
       run: sudo apt-get install -y openjdk-11-jdk
 
-    - name: Download and Start Solr
-      run: |
-        if [ ! -d "solr-9.7.0" ]; then
-          wget https://downloads.apache.org/lucene/solr/9.7.0/solr-9.7.0.tgz
-          tar xzf solr-9.7.0.tgz
-        fi
-        solr-9.7.0/bin/solr start -p 8983
-        solr-9.7.0/bin/solr create -c regolamento_1 || echo "Core already exists."
-
     - name: Wait for Solr to be Ready
       run: |
         for i in {1..30}; do
