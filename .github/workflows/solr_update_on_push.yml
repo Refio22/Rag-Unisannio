@@ -13,26 +13,37 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v2
 
-    - name: Resolve package conflicts
+    - name: Resolve Package Conflicts
       run: |
         sudo apt-get update
         sudo apt-get install -y --no-install-recommends \
           apt-utils \
           ca-certificates \
           gnupg \
-          lsb-release
+          lsb-release \
+          curl
 
     - name: Set up Docker
       run: |
         sudo apt-get install -y \
-          docker-ce \
-          docker-ce-cli \
+          docker.io \
           containerd.io
 
-    - name: Build and run Solr Docker container
+    - name: Build and Run Solr Docker Container
       run: |
         docker build -t my-solr ./docker
         docker run -d -p 8983:8983 --name my-solr-container my-solr
+      env:
+        SOLR_URL: http://localhost:8983/solr/regolamento_1/update/json/docs
+
+    - name: Wait for Solr to be Ready
+      run: |
+        # Wait until Solr responds to HTTP requests
+        until $(curl --output /dev/null --silent --head --fail "$SOLR_URL"); do
+          echo "Waiting for Solr..."
+          sleep 5
+        done
+        echo "Solr is ready."
 
     - name: Set up Python
       uses: actions/setup-python@v2
@@ -41,11 +52,6 @@ jobs:
 
     - name: Install Dependencies
       run: pip install requests PyMuPDF
-
-    - name: Check Solr Status
-      run: |
-        curl -s http://localhost:8983/solr/admin/cores?action=STATUS
-        docker logs my-solr-container
 
     - name: Run Solr Update Script
       env:
