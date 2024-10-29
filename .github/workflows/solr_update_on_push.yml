@@ -62,4 +62,6 @@ jobs:
     - name: Run Solr Update Script
       env:
         SOLR_URL: http://localhost:8983/solr/regolamento_1/update/json/docs
+        GITHUB_REPO: Refio22/Rag-Unisannio
+        DIRECTORY_PATH: Documenti
       run: python ScriptRAS2.py
