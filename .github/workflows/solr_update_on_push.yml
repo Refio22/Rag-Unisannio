@@ -41,11 +41,17 @@ jobs:
     - name: Wait for Solr to be Ready
       run: |
         # Wait until Solr responds to HTTP requests
-        until $(curl --output /dev/null --silent --head --fail "$SOLR_URL"); do
-          echo "Waiting for Solr..."
-          sleep 5
+        for i in {1..30}; do
+          if curl --output /dev/null --silent --head --fail "$SOLR_URL"; then
+            echo "Solr is ready."
+            exit 0
+          else
+            echo "Waiting for Solr..."
+            sleep 15
+          fi
         done
-        echo "Solr is ready."
+        echo "Solr did not become ready in time." >&2
+        exit 1
 
     - name: Set up Python
       uses: actions/setup-python@v2
