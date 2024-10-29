@@ -25,7 +25,9 @@ jobs:
 
     - name: Remove Conflicting Package
       run: |
-        sudo apt-get purge -y containerd
+        sudo apt-get remove -y containerd || true
+        sudo apt-get purge -y containerd || true
+        sudo apt-get autoremove -y
 
     - name: Set up Docker
       run: |
