@@ -23,35 +23,6 @@ jobs:
           lsb-release \
           curl
 
-    - name: Remove Conflicting Package
-      run: |
-        sudo apt-get remove -y containerd || true
-        sudo apt-get purge -y containerd || true
-        sudo apt-get autoremove -y
-        sudo apt-get install -y --reinstall docker.io
-
-    - name: Build and Run Solr Docker Container
-      run: |
-        docker build -t my-solr ./docker
-        docker run -d -p 8983:8983 --name my-solr-container my-solr
-      env:
-        SOLR_URL: http://localhost:8983/solr/regolamento_1/update/json/docs
-
-    - name: Check Solr Container Logs
-      run: |
-        echo "Checking Solr container logs..."
-        docker logs my-solr-container
-        echo "Solr container logs checked."
-
-    - name: Wait for Solr to be Ready
-      run: |
-        # Wait until Solr responds to HTTP requests
-        until $(curl --output /dev/null --silent --head --fail "$SOLR_URL"); do
-          echo "Waiting for Solr..."
-          sleep 5
-        done
-        echo "Solr is ready."
-
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
