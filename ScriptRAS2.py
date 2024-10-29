@@ -5,7 +5,7 @@ import requests
 from io import BytesIO
 
 # GitHub and Solr configurations from environment
-SOLR_URL = os.getenv('SOLR_URL', 'http://localhost:8983/solr/regolamento_1/update/json/docs')
+SOLR_URL = os.getenv('SOLR_URL', 'http://localhost:8983/solr/#/regolamento_1/update/json/docs')
 GITHUB_REPO = os.getenv('GITHUB_REPO', 'Refio22/Rag-Unisannio')
 DIRECTORY_PATH = os.getenv('DIRECTORY_PATH', 'Documenti')
 
