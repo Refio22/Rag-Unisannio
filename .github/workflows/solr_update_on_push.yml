@@ -13,16 +13,10 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v2
 
-    - name: Install Docker
+    - name: Install Docker using Official Script
       run: |
-        sudo apt-get update
-        sudo apt-get install -y --no-install-recommends \
-          apt-utils \
-          ca-certificates \
-          gnupg \
-          lsb-release \
-          curl \
-          docker.io
+        curl -fsSL https://get.docker.com -o get-docker.sh
+        sudo sh get-docker.sh
 
     - name: Start Docker Service
       run: sudo systemctl start docker
@@ -34,24 +28,11 @@ jobs:
       env:
         SOLR_URL: http://localhost:8983/solr/regolamento_1/update/json/docs
 
-    - name: Check Docker Container Status and Logs
-      run: |
-        # Check if the container is running
-        if [[ $(docker ps -q -f name=my-solr-container) ]]; then
-          echo "Solr container is running."
-        else
-          echo "Solr container failed to start."
-          exit 1
-        fi
-        # Output Solr container logs
-        docker logs my-solr-container
-        echo "Waiting for Solr to be ready..."
-
     - name: Wait for Solr to be Ready
       run: |
         # Wait until Solr responds to HTTP requests
         until $(curl --output /dev/null --silent --head --fail "$SOLR_URL"); do
-          echo "Waiting for Solr to be ready..."
+          echo "Waiting for Solr..."
           sleep 5
         done
         echo "Solr is ready."
