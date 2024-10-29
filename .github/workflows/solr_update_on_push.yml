@@ -13,36 +13,20 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v2
 
-    - name: Resolve Package Conflicts
-      run: |
-        sudo apt-get update
-        sudo apt-get remove -y containerd containerd.io || true
-        sudo apt-get purge -y containerd containerd.io || true
-        sudo apt-get autoremove -y
+    - name: Install Java
+      run: sudo apt-get install -y openjdk-11-jdk
 
-    - name: Install Docker
+    - name: Download Solr
       run: |
-        sudo apt-get update
-        sudo apt-get install -y docker.io
-
-    - name: Build and Run Solr Docker Container
-      run: |
-        docker build -t my-solr ./docker
-        docker run -d -p 8983:8983 --name my-solr-container my-solr
-      env:
-        SOLR_URL: http://localhost:8983/solr/regolamento_1/update/json/docs
-
-    - name: Check Solr Container Logs
-      run: |
-        echo "Checking Solr container logs..."
-        docker logs my-solr-container
-        echo "Solr container logs checked."
+        wget https://downloads.apache.org/lucene/solr/8.11.1/solr-8.11.1.tgz
+        tar xzf solr-8.11.1.tgz
+        solr-8.11.1/bin/solr start -p 8983
+        solr-8.11.1/bin/solr create -c regolamento_1
 
     - name: Wait for Solr to be Ready
       run: |
-        # Wait until Solr responds to HTTP requests
         for i in {1..30}; do
-          if curl --output /dev/null --silent --head --fail "$SOLR_URL"; then
+          if curl --output /dev/null --silent --head --fail "http://localhost:8983/solr/regolamento_1"; then
             echo "Solr is ready."
             exit 0
           else
