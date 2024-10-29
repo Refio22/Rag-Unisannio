@@ -23,6 +23,10 @@ jobs:
           lsb-release \
           curl
 
+    - name: Remove Conflicting Package
+      run: |
+        sudo apt-get remove -y containerd
+
     - name: Set up Docker
       run: |
         sudo apt-get install -y \
