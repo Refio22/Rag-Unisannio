@@ -13,13 +13,22 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v2
 
-    - name: Install Docker using Official Script
+    - name: Resolve Package Conflicts
       run: |
-        curl -fsSL https://get.docker.com -o get-docker.sh
-        sudo sh get-docker.sh
+        sudo apt-get update
+        sudo apt-get install -y --no-install-recommends \
+          apt-utils \
+          ca-certificates \
+          gnupg \
+          lsb-release \
+          curl
 
-    - name: Start Docker Service
-      run: sudo systemctl start docker
+    - name: Remove Conflicting Package
+      run: |
+        sudo apt-get remove -y containerd || true
+        sudo apt-get purge -y containerd || true
+        sudo apt-get autoremove -y
+        sudo apt-get install -y --reinstall docker.io
 
     - name: Build and Run Solr Docker Container
       run: |
@@ -27,6 +36,12 @@ jobs:
         docker run -d -p 8983:8983 --name my-solr-container my-solr
       env:
         SOLR_URL: http://localhost:8983/solr/regolamento_1/update/json/docs
+
+    - name: Check Solr Container Logs
+      run: |
+        echo "Checking Solr container logs..."
+        docker logs my-solr-container
+        echo "Solr container logs checked."
 
     - name: Wait for Solr to be Ready
       run: |
