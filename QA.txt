@@ -1,0 +1,691 @@
+Q1) Ci sono limitazioni sul numero di corsi di Ingegneria Informatica che posso seguire contemporaneamente?
+
+Top Document ID: Regolamento Ingegneria Informatica 9, Top Document Title: ['ARTICOLO 9 Iscrizione e frequenza di singoli insegnamenti'], Score: 0.83373976
+
+A1) La risposta è NO, non ci sono limitazioni sul numero di corsi di Ingegneria Informatica che posso seguire contemporaneamente. Il contesto afferma che "chi è in possesso dei requisiti necessari per iscriversi a un corso di studio, oppure sia già in possesso di titolo di studio a livello universitario puoi iscriversi a singoli insegnamenti impartiti presso l'Ateneo", quindi sembra essere possibile iscriversi a più corsi contemporaneamente.
+
+Rilevanza 4, Completezza 5, Chiarezza 4 ------> Score 4.3
+
+Q2) Come posso candidarmi per il progetto di tesi di Ingegneria Informatica in collaborazione con un’azienda?"
+
+Top Document ID: Regolamento Magistrale Ingegneria Informatica 8, Top Document Title: ['ARTICOLO 8 Prova Finale'], Score: 0.81517905
+
+A2) Per candidarsi per il progetto di tesi di Ingegneria Informatica in collaborazione con un'azienda, lo studente dovrebbe seguire i seguenti passaggi:
+
+1. Verificare di aver superato le attività formative incluse nel piano di studio e di aver acquisito almeno 108 crediti, incluyendo quelli per la preparazione della prova finale (12 CFU).
+2. Trovare un relatore afferente al Dipartimento o docente titolare di supplenza o incarico di un insegnamento erogato nel Corso di Studio che sia disponibile a guidarlo nella stesura della tesi.
+3. Scegliere un tema per la tesi di Laurea Magistrale che sia in linea con gli obiettivi del Corso di Laurea e che possa essere sviluppato in collaborazione con l'azienda.
+4. Contattare l'azienda interessata e concordare i dettagli del progetto, incluso il ruolo dell'azienda nel processo di stesura della tesi e la pianificazione dei tempi e degli obiettivi del progetto.
+5. Presentare un progetto di tesi comprensibile e motivato, che includa l'obiettivo, gli aspetti teorici, il piano d'interimento e i requisiti richiesti dal Corso di Laurea.
+6. Sostenere la discussione della prova finale, che consiste nella discussione della tesi in lingua italiana o inglese.
+
+È importante notare che lo studente deve anche soddisfare le richieste del Regolamento del Corso di Laurea Magistrale in Ingegneria Informatica relizziate alla valutazione conclusiva della carriera.
+
+Rilevanza 4, Completezza 5, Chiarezza 5 ------> Score 4.7
+
+Q3) Quali sono i prerequisiti di programmazione, ossia le conoscenze pregresse, per i corsi del terzo anno di Ingegneria Informatica?
+
+Top Document ID: Regolamento Ingegneria Informatica 1, Top Document Title: ['ARTICOLO 1 Funzioni e struttura del Corso di studio'],  Score: 0.87517565
+
+A3) In base al Regolamento del Corso di Laurea in Ingegneria Informatica, non è specificato alcun prerequisito di programmazione per i corsi del terzo anno. Tuttavia, considerando la natura del corso di laurea in Ingegneria Informatica, si possono supporre alcuni prerequisiti generali:
+
+1. Conoscenza di base delle strutture di dati e algoritmi;
+2. Familiarità con un linguaggio di programmazione (ad esempio, Java, Python, C++);
+3. Capacità di pensiero logico-matematico e problem-solving.
+
+È importante notare che i prerequisiti specifici possono variare in base alle specifiche esigenze didattiche e ai livelli di conoscenza richiesti per i corsi del terzo anno. In generale, si potrebbero considerare competenze mature nella programmazione, come ad esempio:
+
+1. Conoscenza di Python o altre lingue di programmazione;
+2. Capacità di sviluppare soluzioni a problemi di tipo logico-matematico;
+3. Padronamento delle strutture di dati e delle tecniche di programmazioneefficiente.
+
+Sarebbe opportuno verificare i requisiti specifici per gli studenti che desiderano iscriversi ai corsi del terzo anno di Ingegneria Informatica presso l'Università degli Studi del Sannio.
+
+Rilevanza 3, Completezza 4, Chiarezza 5 ------> Score 4
+
+Q4) Posso utilizzare software alternativi a quelli proposti durante i laboratori di Ingegneria Informatica?
+
+Top Document ID: Regolamento Ingegneria Informatica 1, Top Document Title: ['ARTICOLO 1 Funzioni e struttura del Corso di studio'], Score: 0.7717143
+
+A4) Nella parte 6 del Regolamento, si legge che "La sede e le strutture logistiche di supporto alle attività didattiche e di laboratorio sono di norma quelle del Dipartimento di Ingegneria...". Questo non esclude la possibilità che gli studenti utilizzino software alternativi a quelli proposti durante i laboratori, ma piuttosto lascia aperta tale opzione come parte delle attività didattiche e laboratoriali.
+
+In sintesi, si può affermare che gli studenti del Corso di Laurea in Ingegneria Informatica sono liberi di utilizzare software alternativi a quelli proposti durante i laboratori, sempre che ciò sia conformemente alle disposizioni didattiche e scientifiche.
+
+Rilevanza 2, Completezza 3, Chiarezza 4 ------> Score 3
+
+Q5) Quali sono i criteri per accedere al dottorato di ricerca?
+
+Top Document ID: Regolamento Dottorato Di Ricerca 2, Top Document Title: ['ARTICOLO 2 Obiettivi dei Corsi di Dottorato di Ricerca'], Score: 0.92495143
+
+A5) Ai fini dell'ammissione ai Corsi di Dottorato di Ricerca all'Università degli Studi del Sannio, non sono specificati particolari criteri di accesso. However, in generale, i requisiti per accedere a un dottorato di ricerca sono:
+
+1. Possedere una laurea magistrale (Master) o equivalente;
+2. Dimostrare la maturità culturale e scientifica necessaria per svolgere ricerca originale;
+3. Presentare una tesi di progetto di dottorazione che rappresenti il percorso di ricerca che si intende perseguire;
+4. Possedere una buona conoscenza della lingua inglese, considerando che gran parte della letteratura scientifica è pubblicata in questa lingua.
+
+Inoltre, l'Università degli Studi del Sannio potrebbe richiedere un punteggio minimo nel test di ammissione e/o una intervista con il comitato di ammissione per valutare le qualifiche del candidato.
+
+
+Rilevanza 5, Completezza 4, Chiarezza 4 ------> Score 4.3
+
+A6) Quante pubblicazioni sono richieste per concludere il Dottorato?
+
+Top Document ID: Regolamento Dottorato Di Ricerca 13, Top Document Title: ['ARTICOLO 13 Immatricolazioni e iscrizioni agli anni successivi'], Score: 0.8486185
+
+Q6) La risposta non è immediatamente presente nel testo. Tuttavia, possiamo interpretare il testo in questo modo:
+
+Non vi è menzione specifica di pubblicazioni richieste per concludere il Dottorato. Il testo fa riferimento alla frequenza del primo anno di corso e alla valutazione positiva del collegio dei docenti sull'attività svolta, ma non fornisce informazioni sulla quorum di pubblicazioni necessarie per ottenere il titolo di Dottore.
+
+Rilevanza 3, Completezza 4, Chiarezza 4 ------> Score 3.6
+
+Q7) Un docente può essere relatore di più tesi di Dottorato contemporaneamente?
+Top Document ID: Regolamento Dottorato Di Ricerca 2, Top Document Title: ['ARTICOLO 2 Obiettivi dei Corsi di Dottorato di Ricerca'], Score: 0.8667284
+
+A7) Sì, un docente può essere relatore di più tesi di Dottorato contemporaneamente. Nella domanda non vi sono vincoli specifici che impediscano a un docente di essere relatore di più tesi di Dottorato in modo contemporaneo.
+
+Rilevanza 2, Completezza 3, Chiarezza 5 ------> Score 3.3
+
+Q8) Ci sono fondi per supportare la mobilità internazionale durante il dottorato?
+
+Top Document ID: Regolamento Dottorato Di Ricerca 14, Top Document Title: ['ARTICOLO 14 Borse di studio'], Score: 0.842337
+
+Sì, ci sono fondi per supportare la mobilità internazionale durante il dottorato. In particolare, l'articolazione 6 del regolamento prevede che al dottorando sia garantita la disponibilità di un budget di importo non inferiore al 10% dell'importo della borsa di studio, finalizzato a sostenere la mobilità internazionale e le spese connesse allo svolgimento dell'attività di ricerca.
+
+Rilevanza 5, Completezza 5, Chiarezza 5 ------> Score 5
+
+Q9) Quali sono le materie obbligatorie nel primo anno di Economia Aziendale?
+Top Document ID: Regolamento Economia Aziendale 1, Top Document Title: ['ARTICOLO 1 Funzioni e struttura del Corso di Studio'], Score: 0.8950795
+
+A9) La risposta è "Non disponibile" poiché il testo non menziona le materie obbligatorie nel primo anno di Economia Aziendale. Infatti, il testo presenta regolamenti e informazioni generali sulla struttura del Corso di Laurea in Economia Aziendale (CLEA), ma non specifica quali sono i corsi obbligatori per il primo anno di studio.
+
+Rilevanza 1, Completezza 3, Chiarezza 4 ------> Score 2.6
+
+Q10) Cosa succede se non supero l’esame di Statistica di Economia Aziendale al primo tentativo?
+Top Document ID: Regolamento Economia Aziendale 7, Top Document Title: ['ARTICOLO 7 Prova finale'], Score: 0.8265343
+
+A10) Se non supero l'esame di Statistica di Economia, non riceverò il titolo accademico e non sarò proclamato laureando. Sarà necessario riprovare o prendere misure alternative per raggiungere i requisiti per la laurea triennale.
+
+Rilevanza 1, Completezza 2, Chiarezza 3 ------> Score 2
+
+Q11) Quali sono i prerequisiti per l’iscrizione di Economia Bancaria e Finanziaria?
+
+Top Document ID: Regolamento Economia Bancaria Finanziaria 3, Top Document Title: ['ARTICOLO 3 Requisiti di ammissione e modalità di verifica'], Score: 0.8782499
+
+A11) I prerequisiti per l'iscrizione a Economia Bancaria e Finanziaria (CLEBF) sono:
+
+1. Possedere diploma di scuola secondaria superiore di durata quinquennale o altro titolo di studio conseguito all'estero, riconosciuto idoneo ai sensi delle leggi vigenti.
+2. Etre iscritti al test on line TOLC-E del CISIA; gli studenti possono essere esonerati dal test in caso di:
+	* Sostenimento dello stesso test presso altro ateneo.
+	* Iscrizioni ad un Corso di Laurea dell'Università del Sannio o di altro Ateneo, in un anno accademico precedente a quello per cui la prova di orientamento si svolge.
+	* Chiesta di passaggio al CLEBF da altri atenei.
+	* Chiesta di iscrizione per il conseguimento di un secondo titolo accademico.
+	* Sono già stati iscritti al Dipartimento DEMM dell'Università del Sannio (o alle ex Facoltà SEA, Economia, Giurisprudenza), rinunciatari o decaduti ai sensi del RDA.
+3. Non essere immatricolati come studenti "ripetente" (anche se hanno assolto gli OFA).
+4. Etre in possesso di un'adeguata preparazione iniziale, verificata mediante una prova di orientamento obbligatoria ma non selettiva.
+
+Rilevanza 5, Completezza 5, Chiarezza 5 ------> Score 5
+
+Q12) È obbligatorio frequentare il corso di Analisi dei Mercati Finanziari?
+
+Top Document ID: Regolamento Economia Bancaria Finanziaria 1, Top Document Title: ['ARTICOLO 1 Funzioni e struttura del Corso di Studio'], Score: 0.8581722
+
+A12) La risposta è NO, frequentare il corso di Analisi dei Mercati Finanziari non è obbligatorio.
+
+Il Corso di Laurea in Economia Bancaria e Finanziaria (CLEBF) si articola in attività formative definite nel Regolamento Didattico, ma la composizione del Corso e le funzioni del Consiglio di Corso di Laurea in Economia Bancaria e Finanziaria (CCLEBF) sono regolate dalle disposizioni dei Regolamenti e dello Statuto di Ateneo.
+
+Rilevanza 2, Completezza 2, Chiarezza 2 ------> Score 2
+
+Q13)Quali sono i dettagli della prova finale di Economia Bancaria e Finanziaria?
+
+Top Document ID: Regolamento Economia Bancaria Finanziaria 7, Top Document Title: ['ARTICOLO 7 Prova finale'], Score: 0.92018807
+
+A13) La prova finale di Economia Bancaria e Finanziaria consiste nel predisporre, presentare e difendere una tesi in relazione ai contenuti specifici del piano di studio. I dettagli della prove finale sono i seguenti:
+
+* La prova finale consiste in una tesi scritta e orale, che deve essere elaborata dal candidato su un argomento preciso stabilito dall'ateneo.
+* La tesa si presenta in forma di lavoro accademico, diviso in due parti: la parte teorica e la parte pratica (se prevista).
+* La presentazione orale della tesi è prevista per permettere al candidato di illustrare i risultati raggiunti e discutere le conclusioni tratte.
+* I giudici valuteranno la tesi sulla base dei criteri stabiliti, che includono l'originalità dell'approccio, la coerenza logica della trattazione, il livello di approfondimento delle conoscenze specifiche e la capacità di ragionamento critico.
+* La votazione finale sarà calcolata sulla base dei punteggi attribuiti dalla Commissione di Laurea, compresa tra 0 e 110.
+
+Nota: i dettagli sopra descritti possono variare in base alle esigenze specifiche dell'ateneo e del piano di studio.
+
+Rilevanza 5, Completezza 5, Chiarezza 5 ------> Score 5
+
+Q14) Un docente può rifiutare di discutere un argomento proposto per la tesi?
+
+Top Document ID: Regolamento Dottorato Di Ricerca 12, Top Document Title: ['ARTICOLO 12 Commissioni per l’esame di ammissione'], Score: 0.7879944
+
+A14) Secondo il contesto, non esiste un particolare divieto o vincolo per un docente nel rifiutare di discutere un argomento proposto per la tesi. La commissione esaminatrice, nominata dal Rettore, può avvalersi della collaborazione di esperti scelti tra i professori o i ricercatori universitari di ruolo (punto 4), ma non vi è una disposizione specifica che obbligherebbe un docente a discutere argomenti proposti per la tesi. Quindi, in linea generale, un docente può rifiutare di discutere un argomento proposto per la tesa.
+
+Rilevanza 3, Completezza 4, Chiarezza 3 ------> Score 3.3
+
+Q15) Cosa sai dirmi sul Riconoscimento di crediti in caso di passaggio da Economia Aziendale ad Economia Management?
+
+Top Document ID: Regolamento Economia Management 10, Top Document Title: ['ARTICOLO 10 Riconoscimento di crediti in caso di passaggi, trasferimenti e seconde lauree'], Score: 0.8616553
+
+A15) La risposta è:
+
+Ecco ciò che posso dirti sul Riconoscimento di crediti in caso di passaggio da Economia Aziendale ad Economia Management all'Università del Sannio:
+
+Il riconoscimento dei Crediti Formativi Universitari (CFU) acquisiti nella facoltà di Economia e Aziendale è possibile per gli studenti provenienti da altri Atenei o da altri Corsi di Laurea dell'Università del Sannio. Infatti, il Consiglio di Corso di Laurea in Management Economico (CCLMEM) si occupa del riconoscimento dei CFU conseguiti in corsi universitari che hanno fornito attività formative coerenti con le conoscenze richieste dal corso di laurea in Economia e Management. In particolare, il riconoscimento è possibile sia per gli studenti provenienti da Ordinamenti didattici precedenti che abbiano optato per il cambio di corso o facoltà.
+
+Rilevanza 5, Completezza 5, Chiarezza 4 ------> Score 4.7
+
+Q16)  Ci sono limiti di tempo per sostenere gli esami del primo anno di Economia Management?
+
+Top Document ID: Regolamento Economia Management 3, Top Document Title: ['ARTICOLO 3 Requisiti di ammissione e modalità di verifica'], Score: 0.89502597
+
+A16) La risposta è NO, non ci sono limiti di tempo per sostenere gli esami del primo anno di Economia Management.
+
+Rilevanza 5, Completezza 5, Chiarezza 5 ------> Score 4.7
+
+Q17) Quali corsi di Ingegneria Informatica prevedono attività di gruppo obbligatorie?
+
+Top Document ID: Regolamento Ingegneria Informatica 6, Top Document Title: ['ARTICOLO 6 Tipologia delle attività formative'], Score: 0.8924794
+
+A17) Secondo il testo, non ci sono corsi di Ingegneria Informatica che prevedano attività di gruppo obbligatorie specificamente menzionati. Gli insegnamenti del Corso di Laurea in Ingegneria Informatica si articolano in moduli didattici di 300 ore (96 ore di docenza) per 12 CFU, 225 ore (72 ore di docenza) per 9 CFU o di 150 ore (48 ore di docenza) per 6 CFU, e seguono una ripartizione del 32% di lezione frontale, seminari o analoghe attività, e del 68% di studio personale o altre attività formative di tipo individuale.
+
+Rilevanza 5, Completezza 5, Chiarezza 5 ------> Score 5
+
+Q18) Posso modificare il piano carriera di Giurisprudenza?
+
+Top Document ID: Regolamento Giurisprudenza 9, Top Document Title: ['ARTICOLO 9 Piano carriera'], Score: 0.8393655
+
+A18) Sì, è possibile modificare il piano carriera di Giurisprudenza. Secondo i punti 1 e 3 del contesto, il piano carriera non aderente ai percorsi formativi consigliati può essere sottoposto all'approvazione del CCLM, purché conforme all'ordinamento didattico.
+
+Inoltre, secondo il punto 4, gli studenti possono anche presentare istanza per inserire insegnamenti diversi da quelli erogati dal CLM, che devono essere approvati dal CCLM.
+
+Rilevanza 5, Completezza 5, Chiarezza 5 ------> Score 5
+
+Q19) Un docente di un insegnamento di Ingegneria Energetica può annullare una sessione d'esame programmata senza preavviso?
+
+Top Document ID: Regolamento Ingegneria Energetica 1, Top Document Title: ['ARTICOLO 1 Funzioni e struttura del Corso di studio'], Score: 0.8180653
+
+A19) Secondo il Regolamento del Corso di Laurea in Ingegneria Energetica, non ci sono disposizioni esplicite che vietino al docente l'annullamento di una sessione d'esame senza preavviso. Tuttavia, è importante considerare il valore dell'impegno delle studentesse e dei professori nel pianificare gli esami e la valutazione finale del corso.
+
+Inoltre, il Regolamento Didattico di Ateneo (RDA) ed il Regolamento Didattico di Dipartimento, ai quali il presente Regolamento fa riferimento, potrebbero contenere disposizioni più specifiche sulla gestione degli esami e della valutazione finale.
+
+Per tale ragione, è preferibile che il docente comunichi in anticipo la decisione di annullare una sessione d'esame, fornendo motivi e alternative adeguate alle studentesse e ai professori coinvolti. Ciò permette di evitare possibili situazioni critiche ed assicura un'adeguata gestione delle attività didattiche e della valutazione finale.
+
+In conclusione, sebbene il Regolamento non ne escluda espressamente la possibilità, si raccomanda al docente di considerare una comunicazione precoce e responsabile per l'annullamento di una sessione d'esame.
+
+Rilevanza 4, Completezza 5, Chiarezza 5 ------> Score 4.7
+
+Q20) "Quali sono i requisiti per essere ammessi alla laurea magistrale in Ingegneria Civile?
+
+Top Document ID: Regolamento Magistrale Ingegneria Civile 3, Top Document Title: ['ARTICOLO 3 Requisiti di ammissione e modalità di verifica'], Score: 0.9111992
+
+A20) Per essere ammessi alla laurea magistrale in Ingegneria Civile presso l'Università degli Studi del Sannio, gli studenti devono:
+
+1. Essere in possesso di un titolo di Laurea in Ingegneria nella classe L-7 secondo il DM 270/04 o L-8 secondo il DM/09 o di altro titolo conseguito all'estero riconosciuto idoneo;
+2. Avere i requisiti curriculari specifici, che includono:
+	* Crediti minimi di ingresso in geometria (24 CFU), analisi matematica (6 CFU), fisica matematica (6 CFU), idraulica (12 CFU) e tecnica delle costruzioni (18 CFU);
+	* Crediti formativi ulteriori di 18 CFU in uno o più settori scientifico-disciplinari specificati;
+	* Almeno 3 CFU di disegno e 3 CFU di linguainglese (oppure certificazione di una adeguata preparazione linguistica);
+3. Essere in possesso di un voto di laurea non inferiore a 85/100 per i titoli di Laurea conseguiti nella classe L-7 o L-8, oppure avere una media degli esami non inferiore a 24/30 per i titoli di laurea conseguiti in altre classi;
+4. Se gli studenti non sono in possesso dei requisiti curriculari specifici, potranno eventualmente iscriversi a singoli insegnamenti offerti dall'Ateneo e dovranno sostenere con esito positivo il relativo accertamento.
+
+Inoltre, gli studenti stranieri devono partecipare ad un colloquio per accedere all'informazione personale, che verterà sulle stesse discipline indicate al comma 4.
+
+Rilevanza 5, Completezza 5, Chiarezza 5 ------> Score 5
+
+Q21) Ad Ingegneria Civile sono previsti esami integrativi per studenti provenienti da altri corsi di laurea?
+
+Top Document ID: Regolamento Ingegneria Civile 9, Top Document Title: ['ARTICOLO 9 Iscrizione e frequenza di singoli insegnamenti'], Score: 0.8733754
+
+A21) La risposta è "No."
+
+Il testo afferma che chi è in possesso dei requisiti necessari per iscriversi a un Corso di Laurea può iscriversi a singoli insegnamenti impartiti presso l'Ateneo, senza menzionare esami integrativi. Ciò suggerisce che gli studenti provenienti da altri corsi di laurea non sono obbligati a superare degli esami integrativi per iscriversi all'Ingegneria Civile. Tuttavia, è sempre consigliabile verificare il Regolamento Studenti dell'Ateneo specifico per comprendere meglio le modalità di iscrizione e qualsiasi altra informazione rilevante.
+
+Rilevanza 2, Completezza 5, Chiarezza 5 ------> Score 4
+
+Q22) Posso svolgere il tirocinio di presso un’azienda fuori regione?
+Top Document ID: Regolamento Economia Aziendale 11, Top Document Title: ['ARTICOLO 11 Orientamento, tutorato e tirocini post-laurea'], Score: 0.75046825
+
+A22) In base al contesto fornito, non è possibile rispondere categoricamente alla domanda "Posso svolgere il tirocinio di presso un’azienda fuori regione?" poiché la questione del percorso formativo e professionale post-laurea appare essere oggetto di previsioni generali e non specifiche relative all'iscrizione al CLEA.
+
+Tuttavia, in base alla puntualizzazione 6, il CLEA organizza tirocini post-laurea destinati ai neolaureati, ma in collaborazione con soggetti esterni, pubblici e privati. Ciò potrebbe suggerire che è possibile svolgere un tirocinio presso un'azienda fuori regione, sebbene ciò richiederebbe accordi specifici con la stessa azienda.
+
+In ogni caso, è necessario verificare le possibili opportunità di tirocinio presso un'azienda fuori regione con il CLEA o altre istituzioni universitarie per accedere a tale tipo di esperienziazione.
+
+
+Rilevanza 3, Completezza 5, Chiarezza 4 ------> Score 4
+
+Q23) Quali software sono considerati indispensabili per Ingegneria Elettronica?
+Top Document ID: Regolamento Ingegneria Elettronica 2, Top Document Title: ['ARTICOLO 2 Obiettivi Formativi'], Score: 0.81900656
+
+A23) Secondo il curriculum del Corso di Laurea in Ingegneria Elettronica e Biomedica presso l'Università degli Studi del Sannio, i software considerati indispensabili per la formazione professionale dei laureati in questo campo sono:
+
+* Software di simulazione ed analisi, come ad esempio:
+	+ MATLAB
+	+ Simulink
+* Software di ingegneria, come ad esempio:
+	+ EDA (Electronic Design Automation) tools, come Altium e KiCad
+	+ C++ Builder e Delphi per lo sviluppo di applicazioni desktop
+	+ Linux e Windows per l'installazione e la gestione dei system operativi
+* Software di analisi e trattamento dei dati medici, come ad esempio:
+	+ Medical Imaging software (ad esempio, Image J e Neurosuite)
+	+ Biostatistics software (ad esempio, R e SAS)
+
+In generale, i laureati in Ingegneria Elettronica e Biomedica devono avere conoscenze approfondite nel campo dell'informatica, delle tecnologie di rete e comunicazione, della gestione dei dati e delle statistiche, nonché nella lettura e interpretazione dei dati medicali.
+
+Rilevanza 5, Completezza 5, Chiarezza 5 ------> Score 5
+
+Q24) Quali sono gli sbocchi professionali per i laureati in Ingegneria Elettronica?
+
+Top Document ID: Regolamento Magistrale Ingegneria Elettronica 6, Top Document Title: ['ARTICOLO 6 Tipologia delle attività formative'], Score: 0.84838706
+
+A24) Grazie per la domanda! Ecco alcune delle possibili scorciatoie professionali per i laureati in Ingegneria Elettronica:
+
+1. **Gestore di progetti e sviluppatore di sistemi**: come specialista in campo elettronico, puoi lavorare in aziende che progettano e sviluppando sistemi elettronici complessi.
+2. **Sviluppatore di software**: la conoscenza delle tecnologie elettroniche può essere applicata allo sviluppo di software per dispositivi e sistemi high-tech.
+3. **Ingegnere consulente**: puoi lavorare come consulente per aziende che necessitano di soluzioni innovative in campo elettronico e della comunicazione.
+4. **Professor/Researcher**: la laurea in Ingegneria Elettronica ti può aprire la porta a una carriera accademica, insegnando e ricercando nel settore delle tecnologie elettroniche.
+5. **Innovatore di nuovi prodotti e servizi**: con la tua formazione in Ingegneria Elettronica, puoi sviluppare nuovi prodotti e servizi innovativi e high-tech.
+6. **Ingegnere sistemista**: possono lavorare come ingegnere sistemista per aziende dell'elettronica e della comunicazione, progettando e ottimizzando i sistemi direte e di controllo.
+7. **Sviluppatore di nuove tecnologie**: la conoscenza delle lastre e dei dispositivi elettronici può essere applicata allo sviluppo di nuove tecnologie per l'industria dei dispositivi mobili, del software o della telefonia.
+8. **Gestore di progetti di riscopo**: possono lavorare come gestore di progetti in settori diversi, come il campo elettronico, la meccanica o l'economia.
+9. **Insegnamento in scuole superiori**: se amate l'insegnamento potete lavorare come insegnante in scuole superiori per insegnare le basi dell'ingegneria elettronica ai giovani.
+10. **Analista di dati**: la capacità di analizzare e interpretare i dati può essere applicata a diversi settori, tra cui il campo elettronico.
+
+Queste sono solo alcune delle possibili scorciatoie professionali per i laureati in Ingegneria Elettronica. Il corso di Laurea Magistrale in Electronics Engineering for Automation and Sensing ti dà una vasta gamma di opzioni per un'eccezionale carriera professionale.
+
+Rilevanza 5, Completezza 5, Chiarezza 5 ------> Score 5
+
+Q25) Come vengono calcolati i crediti per le attività di progetto di Ingegneria Elettronica?
+
+Top Document ID: Regolamento Ingegneria Elettronica 6, Top Document Title: ['ARTICOLO 6 Tipologia delle attività formative'], Score: 0.84610677
+
+A25) Sulla base delle informazioni fornite, posso spiegare come vengono calcolati i crediti per le attività di progetto di Ingegneria Elettronica:
+
+* Per gli insegnamenti didattici (lezioni ed esami), il credito è standardizzato a 12 CFU per ogni modulo di 300 ore, distribuite in un 32% di lezione frontale e 68% di studio personale.
+* Gli insegnamenti di Matematica e Fisica al primo anno hanno una ripartizione diversa (40%-60%), ma mantengono la stessa suddivisione tra lezione frontale e studio personale.
+* L'insegnamento di Inglese è previsto per 3 CFU, che rappresentano il conseguimento del livello B2 del CEFR (Common European Framework).
+* Gli stage esterni in collaborazione con istituzioni pubbliche e private italiane o straniere possono essere approvati dal CCdLU e assegnare crediti didattici specifici.
+* Le attività formative di tipo individuale, come lo studio personale, sono valutate a 25 ore di attività per ogni CFU obbligatorio.
+
+In generale, i crediti vengono calcolati sulla base della durata delle lezioni e del tempo dedicato allo studio personale, nonché delle attività formative di tipo individuale. I crediti possono variare in base alla specifica attività o modulo didattico.
+
+Rilevanza 5, Completezza 5, Chiarezza 5 ------> Score 5
+
+Q26) Ci sono corsi che richiedono certificazioni esterne, come l'uso di software per il calcolo energetico?
+
+Top Document ID: Regolamento Ingegneria Energetica 7, Top Document Title: ['ARTICOLO 7 Esami ed altre verifiche del profitto degli studenti'], Score: 0.8125026
+
+Risposta: La risposta è NO. Il regolamento del Corso di Laurea in Ingegneria Energetica non menziona esigenze esterne per l'utilizzo di software per il calcolo energetico o certificazioni esterne connesse a corsi specifici. Tuttavia, è importante nota che gli studenti con disabilità e/o disturbi specifici dell'apprendimento sono tenuti in conto per la valutazione finale, ma ciò NON collegato all'utilizzo di software esterni o certificazioni esterne.
+
+Rilevanza 5, Completezza 5, Chiarezza 5 ------> Score 5
+
+Q27) Ci sono corsi a scelta al terzo anno di Ingegneria Energetica?
+
+Top Document ID: Regolamento Ingegneria Energetica 9, Top Document Title: ['ARTICOLO 9 Iscrizione e frequenza di singoli insegnamenti'], Score: 0.85997564
+
+A27) Sì, ci sono corsi a scelta al terzo anno di Ingegneria Energetica, che possono essere frequentati e sostenuti come insegnamenti singoli.
+
+Rilevanza 5, Completezza 5, Chiarezza 5 ------> Score 5
+
+Q28) Quante volte posso ripetere un esame non superato?
+
+Top Document ID: Regolamento Ingegneria Informatica 8, Top Document Title: ['ARTICOLO 8 Prova finale'], Score: 0.785038
+
+Risposta: La risposta è *****. Poiché non è specificato alcun numero massimo di volte in cui lo studente può ripetere un esame non superato, gli studenti possono ripetere quante volte necessario fino a quando non raggiungono il punteggio minimo richiesto per la Laurea.
+
+Rilevanza 4, Completezza 4, Chiarezza 4 ------> Score 4
+
+Q29) Quali sono i requisiti per la prova finale in Ingegneria Energetica?
+
+Top Document ID: Regolamento Ingegneria Energetica 8, Top Document Title: ['ARTICOLO 8 Prova finale'], Score: 0.91024154
+
+A29) I requisiti per la prova finale in Ingegneria Energetica sono i seguenti:
+
+1. Lo studente deve avere già superato tutte le verifiche delle attività formative incluse nel piano di studio e aver acquisito almeno 177 crediti, inclusi quelli relativi alla preparazione della prova finale (3 CFU).
+2. L'elaborato deve essere preparato con la supervisione di almeno un relatore afferente al Dipartimento o di almeno un docente titolare di supplenza o incarico di insegnamento erogato dal Corso di Laurea.
+3. La valutazione conclusiva della carriera dello studente deve tener conto delle valutazioni sulle attività formative precedenti e sulla prova finale, nonché di ogni altro elemento rilevante.
+
+In sintesi, per essere ammesso a sostenere la prova finale in Ingegneria Energetica è richiesto che lo studente abbia superato le attività formative previste dal piano di studio e abbia acquisito sufficienti crediti, mentre il contenuto del testo concerne i requisiti per l'elaborato stesso e la valutazione finale del titolo.
+
+Rilevanza 5, Completezza 5, Chiarezza 5 ------> Score 5
+
+Q30) È possibile accedere a Scienze dell’Amministrazione Digitale da una laurea triennale non correlata?
+
+Top Document ID: Regolamento Scienze Amministrazione Digitale 7, Top Document Title: ['ARTICOLO 7 Prova finale'], Score: 0.8673935
+
+A30) Ecco la risposta:
+
+Sì, è possibile accedere a Scienze dell'Amministrazione Digitale da una laurea triennale non correlata. L'unica condizione è che lo studente abbia superato le verifiche del profitto relative a tutti gli insegnamenti inclusi nel piano di studio e sia stato ammesso a sostenere la prova finale (comma 1).
+
+Inoltre, l'assegnazione dell'argomento della tesi e il nomina del relatore sono gestite dal Presidente del CL, previa verifica del carico di tesi del docente da nominare. Ciò significa che lo studente può chiedere la nomina di un relatore esterno, specializzato nella materia di interesse (comma 2).
+
+Tuttavia, è importante notare che l'elaborato finale deve essere sostenuto in una materia oggetto di insegnamento presso il CL e rientrante nel piano di studio dello studente (comma 3). Ciò potrebbe richiedere some specificazione sulla materia di interesse da parte del relatore o dello studente.
+
+Rilevanza 3, Completezza 5, Chiarezza 5 ------> Score 4.3
+
+Q31) Quali competenze digitali vengono valutate durante il percorso di Scienze Dell'Amministrazione Digitale?
+
+Top Document ID: Regolamento Scienze Amministrazione Digitale 1, Top Document Title: ['ARTICOLO 1 Funzioni e struttura del Corso di Studio'], Score: 0.89731777
+
+A31) La valutazione delle competenze digitali durante il percorso di Scienze Dell'Amministrazione Digitale può includere:
+
+1. Conoscenza delle tecnologie informatiche: ad esempio, la capacità di utilizzare software e strumenti informatici specifici per l'amministrazione digitale.
+2. Competenze in materia di gestione della conoscenza: ad esempio, la capacità di cercare, elaborare e condividere informazioni digitali in modo efficiente.
+3. Comprensione delle tecnologie emergenti: ad esempio, la capacità di comprendere l'impatto delle tecnologie come il cloud computing, l'intelligenza artificiale e l'Internet of Things (IoT) sul settore pubblico.
+4. Capacità di analisi e interpretazione dei dati digitali: ad esempio, la capacità di rilevare tendenze e connessioni nel dataset digitale e di costruire modelli predittivi.
+5. Competenze in materia di sicurezza informatica: ad esempio, la capacità di garantire la sicurezza dei dati e delle comunicazioni digitali.
+6. Capacità di progettazione e sviluppo di soluzioni digitale: ad esempio, la capacità di creare soluzioni innovative utilizzando tecnologie come l'Microsoft Power Apps, la SurveyMonkey o il Google Analytics.
+7. Competenze in materia di governance digitale: ad esempio, la capacità di formulare politiche e procedimenti per l'utilizzo delle tecnologie digitali nel settore pubblico.
+8. Capacità di leadership e gestione dei progetti: ad esempio, la capacità di coordinare equipe e progetti di sviluppo digitale.
+
+Queste competenze sono strettamente correlate allo svolgimento del percorso universitario in Scienze Dell'Amministrazione Digitale.
+
+Rilevanza 5, Completezza 5, Chiarezza 5 ------> Score 5
+
+Q32) Qual è il peso delle varie attività nel calcolo del voto finale di Scienze Statistiche e Attuariali?
+
+Top Document ID: Regolamento Scienze Statistiche Attuariali 1, Top Document Title: ['ARTICOLO 1 Funzioni e struttura del Corso di studio'], Score: 0.89272493
+
+A32) Nel calcolo del voto finale di Scienze Statistiche e Attuariali, il peso delle varie attività è il seguente:
+
+* Esami (50%)
+* Tirocinio (20%)
+* Progetto (10%)
+* Tesi (10%)
+* Partecipazione alle lezioni e altri compiti (10%)
+
+Notare che questo peso è specificato nel testo e potrebbe variare in base al Corso di Laurea e ai regolamenti specifici dell'Ateneo.
+
+Rilevanza 4, Completezza 5, Chiarezza 5 ------> Score 4.7
+
+Q33) Che tipo di supporto offrono i tutor agli studenti del primo anno?
+
+Top Document ID: Regolamento Ingegneria Informatica 14, Top Document Title: ['ARTICOLO 14 Orientamento e Tutorato'], Score: 0.84476835
+
+A33) I tutor del primo anno offrono supporto attraverso:
+
+1. Organizzazione di attività di tutorato che si conformano alle norme dell'ateneo e del dipartimento.
+2. Offerta di servizi specifici per studenti con bisogni educativi speciali, quali disabilità, disturbi specifici dell'apprendimento o svantaggio sociale e culturale, attraverso:
+	* Sussidi didattici e tecnici
+	* Supporto di servizi di tutorato specializzato
+
+Rilevanza 4, Completezza 4, Chiarezza 5 ------> Score 4.3
+
+Q34) Secondo i Servizi di Tutorato offerti dall'Università posso richiedere un tutor personale per la preparazione degli esami?
+
+Top Document ID: Regolamento Magistrale Ingegneria Informatica 14, Top Document Title: ['ARTICOLO 14 Orientamento e Tutorato'], Score: 0.87669766
+
+Risposta: Sì, secondo il Regolamento del Corso di Laurea Magistrale in Ingegneria Informatica A.A. 2024/2025 dell'Università degli Studi del Sannio - Dipartimento di Ingegneria, è disponibile un servizio di tutorato speciale per gli studenti con "bisogni educativi speciali", che includeva anche la possibilità di richiedere un tutore personale per la preparazione degli esami.
+
+Rilevanza 3, Completezza 3, Chiarezza 3 ------> Score 3
+
+Q35) Quali sono i criteri per diventare tutor?
+
+Top Document ID: Regolamento Servizi Tutorato 5, Top Document Title: ['ARTICOLO 5 Selezione dei tutor e conferimento degli incarichi'], Score: 0.87583506
+
+Risposta: I criteri per diventare tutor presso un ateneo sono:
+
+1. Dozzina procedura di selezione pubblica annuncio online sull'Albo dell'Ateneo.
+2. Uniformità applicazione regole e parità trattamento candidati.
+3. Selezione su titoli e colloquio motivazionale per individuare tutor competenti e motivati.
+4. Punteggio attribuito per i titoli e il colloquio definito dal bando di selezione.
+5. Selezione effettuada da commissione composta almeno tre membri (docenti e tecnico-amministrativi) Ateneo.
+6. Formulae graduatoria di merito, valida per un anno a partire dalla pubblicazione.
+7. Vincitori devono comunicare accettazione assegno tutorato alle condizioni stabilite dal bando entro 5 giorni.
+8. In caso rinuncia o mancata accettazione, l'assegna di tutorato è attribuito ad altro candidato idoneo.
+9. Possibilità attribuire assegni tutorato aggiuntivi se richiesti motivati dalle attività e disponibilità fondi Ateneo.
+10. Soggetti titolari rapporti lavoro pubblica amministrazione devono dare autorizzazione allo svolgimento incarico (art. 53, comma 7).
+
+Rilevanza 5, Completezza 5, Chiarezza 4 ------> Score 4.7
+
+Q36) Come vengono assegnate le borse di studio del Dottorato di Ricerca?
+
+Top Document ID: Regolamento Dottorato Di Ricerca 14, Top Document Title: ['ARTICOLO 14 Borse di studio'], Score: 0.92236876
+
+A36) Le borse di studio del Dottorato di Ricerca vengono assegnate come segue:
+
+* La valutazione positiva è necessaria per il rinnovo della borsa di studio ogni anno;
+* L'assegnazione è subordinata all'ammissione all'anno successivo;
+* Non sono cumulabili con altri finanziamenti, ad eccezione di quelli che integrano soggiorni all'estero e sono conferiti da istituzioni nazionali o estere;
+* In caso di valutazione negativa o rinuncia alla borsa, l'importo non utilizzato è assegnato a un altro dottorando senza borsa;
+* La borsa può essere incrementata del 50% per un massimo di 12 mesi per attività di ricerca all'estero, con possibilità di estensione fino a 18 mesi per dottorati in co-tutela o attivati in convenzioni e consorzi;
+* Il budget individale di 10% dell'importo della borsa è garantito per lo sostenimento del percorso formativo, della mobilità e delle spese di ricerca.
+
+Rilevanza 5, Completezza 5, Chiarezza 5 ------> Score 5
+
+Q37)Inserisci la tua domanda: Come si calcola il voto finale di laurea?
+
+Top Document ID: Regolamento Ingegneria Elettronica 3, Top Document Title: ['ARTICOLO 3 Requisiti di ammissione e modalità di verifica (Laurea)'], Score: 0.8930038
+
+Risposta: Questo non è il regolamento del voto finale di laurea, ma piuttosto il regolamento del Corso di Laurea in Ingegneria Elettronica e Biomedica presso l'Università degli Studi del Sannio. Il testo descrive le norme per l'ammissione al corso, la struttura della prova di orientamento, i requisiti per il superamento dell'OFA (obblighi formativi aggiuntivi), il precorso di matematica e inglese, nonché le conoscenze necessarie per una proficua comprensione degli insegnamenti del Corso di Studi. Non ci sono quindi informazioni sulla calcolazione del voto finale di laurea.
+
+
+Rilevanza 1, Completezza 2, Chiarezza 3 ------> Score 2
+
+Q38) Qual è la durata di un dottorato di ricerca?
+Top Document ID: Regolamento Dottorato Di Ricerca 5, Top Document Title: ['ARTICOLO 5 Tematiche e durata'], Score: 0.90674174
+
+A38) La durata legale dei corsi di dottorato non può essere inferiore a tre anni.
+
+Rilevanza 5, Completezza 4, Chiarezza 5 ------> Score 4.7
+
+Q39) Come vengono valutati gli esami svolti in altre università straniere?
+
+Top Document ID: Regolamento Magistrale Ingegneria Informatica 7, Top Document Title: ['ARTICOLO 7 Esami ed altre verifiche del profitto degli studenti'], Score: 0.8551533
+
+A39) In base al Regolamento del Corso di Laurea Magistrale in Ingegneria Informatica dell'Università degli Studi del Sannio, gli esami svolti in altre università straniere non sono trattati specificamente. Il regolamento non menziona come vengano valutati gli esami conseguenti a corsi di laurea conseguiti all'estero.
+
+In generale, però, è possibile che le università italiane abbiano dei protocolli o procedure specifiche per valutare e riconoscere crediti formativi conseguiti in altre università, inclusi quelli straniere. Queste procedure solitamente tengono conto delle norme europee relative al riconoscimento di creditori formativi conquistati all'estero (ERASMUS).
+
+L'universitario interessato a valutare gli esami svolti in altre università straniere dovrebbe verificare con il Dipartimento o la facoltà presso cui intende iscriversi se è presente un protocollo specifico per tale tipo di casi.
+
+Rilevanza 3, Completezza 4, Chiarezza 5 ------> Score 4
+
+Q40) Se sono iscritto a Giurisprudenza è possibile frequentare corsi opzionali da altri corsi di laurea?
+
+Top Document ID: Regolamento Giurisprudenza 8, Top Document Title: ['ARTICOLO 8 Singoli corsi di insegnamento'], Score: 0.85685927
+
+A40) Sì, è possibile frequentare corsi opzionali da altri corsi di laurea se si ha iscritto a Giurisprudenza. Infatti, secondo il testo fornito, gli studenti in possesso dei requisiti necessari possono iscriversi a singoli insegnamenti erogati dall'Ateneo, senza escludere la possibilità di frequentare corsi opzionali da altri corsi di laurea. Tuttavia, è importante verificare le modalità di iscrizione e frequenza delle attività formative nei confronti del Regolamento degli Studenti dell'Ateneo.
+
+Rilevanza 5, Completezza 4, Chiarezza 4 ------> Score 4.3
+
+Q41) Come viene calcolato il voto della prova finale di laurea magistrale in Ingegneria Civile?
+
+Top Document ID: Regolamento Magistrale Ingegneria Civile 8, Top Document Title: ['ARTICOLO 8 Prova finale'], Score: 0.90194213
+
+A41) La valutazione del voto finale per il corso di laurea magistrale in Ingegneria Civile è la seguente:
+
+1. Voto di base: calcolato come media ponderata dei voti degli esami superati, con peso nel numero di crediti associati a ciascun corso di insegnamento.
+2. Aggiornamenti al voto di base:
+	* 0.2 punti per ogni lode ottenuta negli esami di profitto.
+	* 0.4 punti se lo studente ha svolto il lavoro finale di laurea all'estero o ha sostenuto gli esami all'estero nell'ambito di un progetto Erasmus.
+3. Voto di tempo: assegnato in base alla durata prevista del percorso di studio, da 0 a 3 punti.
+4. Voto finale: calcolato sommando il voto di base con il punteggio relativo alla prova finale (compreso tra 0 e 4 punti), che tiene conto della qualità dell'elaborato e della capacità espositiva dello studente.
+
+La lode può essere attribuita con parere unanime della Commissione ai candidati che conseguono un punteggio finale non inferiore a 112/110.
+
+Rilevanza 5, Completezza 5, Chiarezza 5 ------> Score 5
+
+Q42) È possibile cambiare il coordinatore durante il dottorato?
+
+Top Document ID: Regolamento Dottorato Di Ricerca 9, Top Document Title: ['ARTICOLO 9 Coordinatore'], Score: 0.8576172
+
+A42) Sì, è possibile cambiare il coordinatore durante il dottorato (art. 6). In caso di rinuncia, dimissioni, cessazione dalla qualifica o perdita dei requisiti necessari da parte del coordinatore, le sue funzioni vengono svolte temporaneamente dal decano dei docenti di prima fascia del collegio. L'elezione del nuovo coordinatore deve essere tenuta entro il termine massimo di sessanta giorni dalla cessazione del precedente coordinatore.
+
+Rilevanza 5, Completezza 5, Chiarezza 5 ------> Score 5
+
+Q43) Ci sono limiti sul numero di pubblicazioni richieste per il completamento del dottorato di ricerca?
+
+Top Document ID: Regolamento Dottorato Di Ricerca 2, Top Document Title: ['ARTICOLO 2 Obiettivi dei Corsi di Dottorato di Ricerca'], Score: 0.8541198
+
+A43) Non ci sono limiti specifici sul numero di pubblicazioni richieste per il completamento del dottorato di ricerca. Il completamento del dottorato di ricerca è basato sulla presentazione di una tesi originale e rigorosa, che demostrerà la maturità scientifica e le competenze acquisite durante il periodo di formazione. La quantità delle pubblicazioni è un fattore considerato nella valutazione del lavoro del dottorando, ma non esiste un numero specifico di pubblicazioni richieste per il completamento del dottorato di ricerca.
+
+Rilevanza 5, Completezza 5, Chiarezza 4 ------> Score 4.7
+
+Q44) Come posso proporre modifiche al regolamento del corso?
+
+Top Document ID: Regolamento Magistrale Ingegneria Civile 15, Top Document Title: ['ARTICOLO 15 Modifiche al regolamento'], Score: 0.8174778
+
+A44) Per proporre modifiche al regolamento del corso, dovrai seguire le seguenti fasi:
+
+1. Proporre eventuali modifiche alle strutture didattiche responsabili del Corso (ad esempio il Consiglio del Corso) mediante presentazione di un progetto scritto.
+2. Aspettare l'approvazione del parere della Commissione Didattica Paritetica sull'amendamento presentato.
+3. Presentare la proposta al Consiglio di Dipartimento per l'approvazione definitiva.
+
+Nota: In alcuni casi, potrebbe essere necessario ottenere il visto positivo anche del Senato Accademico e del Consiglio di Amministrazione prima della deliberazione finale.
+
+Rilevanza 4, Completezza 5, Chiarezza 5 ------> Score 4.7
+
+Q45) Ci sono linee guida specifiche per valutare gli studenti lavoratori?
+
+Top Document ID: Regolamento Economia Management 3, Top Document Title: ['ARTICOLO 3 Requisiti di ammissione e modalità di verifica'], Score: 0.8281921
+
+A45) Sì, ci sono linee guida specifiche per valutare gli studenti lavoratori che intendono iscriversi al Corso di Laurea Magistrale in Economia e Management (CLMEM).
+
+Gli studenti devono superare una prova scritta o colloquio finalizzato a verificare l'adeguatezza della loro personale preparazione, che copre aree tematiche come i principi di economia aziendale, i principi dell'economia dei mercati, le conoscenze statistiche e matematiche, le conoscenze giuridiche e la conoscenza della lingua italiana (per gli studenti stranieri).
+
+Inoltre, sono previste specifiche linee guida per l'accesso ai corsi di formazione superiore per gli studenti stranieri/internazionali, definiti annualmente dal Ministero e pubblicati all'URL indicato.
+
+Infine, qualora il candidato non sia in possesso degli specifici requisiti curriculari, potrà eventualmente iscriversi a singoli insegnamenti offerti dall'Ateneo, ma dovrà sostenere con esito positivo l'accertamento relativo prima di iscriversi alla Laurea magistrale.
+
+Rilevanza 4, Completezza 5, Chiarezza 5 ------> Score 4.7
+
+Q46) Ci sono regole specifiche per la partecipazione di studenti con disabilità?
+Top Document ID: Regolamento Scienze Amministrazione Digitale 3, Top Document Title: ['ARTICOLO 3 Requisiti di ammissione e modalità di verifica'], Score: 0.79484844
+
+A46) Ci sono alcune regole che possono potenzialmente interessare studenti con disabilità:
+
+* Il test di ingresso TOLC-SU è ad accesso non programmato (punto 1), quindi appare già predisposto per favorire l'accessibilità.
+* L'ammissione al CL richiede un diploma di scuola secondaria di secondo grado o altro titolo di studio riconosciuto idoneo ai sensi delle leggi vigenti, senza menzionare specifiche norme per studenti con disabilità.
+
+Tuttavia, non è presente esplicitamente alcuna disposizione speciale per gli studenti con disabilità. Pertanto, verrebbe consigliato di contattare l'ateneo e il Consorzio CISIA per comprendere meglio le modalità di partecipazione e i supporti speciali offerti in loco.
+
+Nota: È importante sottolineare che le informazioni fornite non sono specifiche per gli studenti con disabilità e quindi bisognerebbe verificarne l'accessibilità reale e disponibilità di supporti specifici.
+
+Rilevanza 3, Completezza 4, Chiarezza 5 ------> Score 4
+
+Q47) Quanto tempo ho per completare il dottorato se richiedo una sospensione?
+
+Top Document ID: Regolamento Dottorato Di Ricerca 19, Top Document Title: ['ARTICOLO 19 Proroga'], Score: 0.85513544
+
+A47) Sulla base delle informazioni fornite, puoi richiedere una sospensione del tuo dottorato e ottenere un'estensione della durata massima di 12 mesi senza ulteriori oneri finanziari. Inoltre, il collegio dei docenti può decidere di concederti un'altra proroga fino a un totale di 18 mesi, ma solo in case specifiche previste dalla legge e solo se ci sono motivate esigenze scientifiche.
+
+Rilevanza 5, Completezza 5, Chiarezza 5 ------> Score 5
+
+Q48) Quali sono i criteri per ottenere l’autorizzazione a insegnare durante il dottorato?
+
+Top Document ID: Regolamento Dottorato Di Ricerca 3, Top Document Title: ['ARTICOLO 3 Requisiti per l’accreditamento dei corsi di dottorato di ricerca'], Score: 0.9205699
+
+A48) I criteri per ottenere l'autorizzazione a insegnare durante il dottorato sono stabiliti dagli artt. 3, 4 e 5 del Decreto Ministeriale n. 226 del 14 dicembre 2021, approvati previo accreditamento concesso dal Ministero competente su conforme parere dell'ANVUR (Agenzia Nazionale per la Valutazione e il Visto delle Attività Universitarie e della Ricerca).
+
+Rilevanza 5, Completezza 5, Chiarezza 5 ------> Score 5
+
+Q49) Come vengono assegnati i tutor agli studenti?
+
+Top Document ID: Regolamento Servizi Tutorato 5, Top Document Title: ['ARTICOLO 5 Selezione dei tutor e conferimento degli incarichi'], Score: 0.86467487
+
+A49) I tutor sono assegnati agli studenti mediante un'apposita procedura di selezione pubblica, resa nota nell'Albo online presente sul sito web dell'Ateneo. La selezione è indetta garantendo uniformità di applicazione delle regole e parità di trattamento dei candidati. Vengono individuati i tutor competenti e motivati attraverso un colloquio motivazionale ed una valutazione basata su titoli e colloquio.
+
+Rilevanza 5, Completezza 5, Chiarezza 5 ------> Score 5
+
+Q50) Esistono tutor specializzati per studenti con disabilità?
+
+Top Document ID: Regolamento Ingegneria Civile 14, Top Document Title: ['ARTICOLO 14 Orientamento e Tutorato'], Score: 0.80205137
+
+A50) Sì, esistono tutor specializzati per studenti con disabilità. Il Consiglio di Corso di Laurea può organizzare attività di tutorato in conformità con il Regolamento di Ateneo per il Tutorato e, sensibile alle esigenze degli studenti universitari con bisogni educativi speciali, mette a disposizione sussidi didattici e tecnici specifici, oltre al supporto di appositi servizi di tutorato specializzato.
+
+Rilevanza 3, Completezza 4, Chiarezza 5 ------> Score 4
+
+
+TOTALE EVALUATION = 4,326
+
+REPORT:
+
+Struttura del Processo di Valutazione
+a. Scala di Valutazione
+Utilizza una scala standardizzata (es. da 1 a 5):
+
+1: Totalmente Insoddisfacente
+2: Parzialmente Insoddisfacente
+3: Adeguata
+4: Buona
+5: Eccellente
+
+b. Domande di Valutazione
+
+Per ogni risposta:
+
+Rilevanza: Quanto è pertinente questa risposta rispetto alla domanda?
+(1 = Non Pertinente, 5 = Totalmente Pertinente)
+Completezza: La risposta copre tutti gli aspetti richiesti?
+(1 = Incompleta, 5 = Molto Completa)
+Chiarezza: La risposta è comprensibile e ben formulata?
+(1 = Confusa, 5 = Molto Chiara)
+
+Ho eseguito una Human evaluation sul sistema RAG seguendo lo schema precedentemente riportato. 
+Ho testato il sistema con un set di 50 domande opportunamente selezionate, tra richieste di studenti e dottorati facenti parte dell'università, precedentemente raccolte e domande generate dall'IA senza fornirgli eccessivo contesto.
+
+Complessivamente il risultato raggiunto è soddisfacente, raggiungendo uno score complessivo di 4,326 su di una scala da 1 a 5, soprattutto se si considerano le limitazioni hardware e la natura dei modelli utilizzati.
+Inoltre bisogna considerare la natura delle query proposte.
+Se si consegue un'analisi approfondita, si nota che il sistema si comporta molto bene in domande che forniscono un contesto preciso, ad esempio specificando il nome del corso oppure l'esigenza particolare di cui si ha bisogno, ad esempio prova finale, piano carriera, iscrizione etc…
+Questo è ovvio soprattutto se si considerano i Regolamenti che sono stati presi in considerazione per la creazione della Rag, in quanto sono i Regolamenti specifici di ogni singolo corso, che come detto sono divisi in sezioni/articoli, e inoltre quelli di Dottorato e Tutorato. Non vi sono Regolamenti di carattere generale, perché per loro natura, spesso ridondanti, avrebbero di certo abbassato le prestazioni del sistema Rag. Sono un esempio di query ideali proposte la numero: (Numeri di query dove lo score è 5). Detto ciò il sistema riesce comunque a fornire risposte soddisfacenti anche se la domanda risulta di carattere più generale, a volte abbassando l'indice di rilevanza, dovuto però bisogna precisare alla mancata indicazione di un corso specifico, di conseguenza è il sistema RAG stesso a fornire la risposta basandosi sul contesto più simile che è riuscito ad ottenere. In conclusione quindi è da notare che il sistema risponde bene per una variegata selezione di query in maniera completa e solo in alcuni rari casi, parliamo di un decimo del set di domande segna uno score inferiore a 3, spesso dovuto a query di cui non vi è un informazione precisa nei regolamenti o non vi è affatto.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
